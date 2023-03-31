@@ -1,6 +1,6 @@
 Name:		texlive-decision-table
 Version:	60673
-Release:	1
+Release:	2
 Summary:	An easy way to create Decision Model and Notation decision tables
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/decision-table
