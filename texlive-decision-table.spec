@@ -3,7 +3,7 @@ Version:	60673
 Release:	2
 Summary:	An easy way to create Decision Model and Notation decision tables
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/decision-table
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/decision-table
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/decision-table.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/decision-table.doc.r%{version}.tar.xz
